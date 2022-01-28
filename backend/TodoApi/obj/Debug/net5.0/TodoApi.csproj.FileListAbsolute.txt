@@ -1,0 +1,422 @@
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\appsettings.json
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\TodoApi.exe
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\TodoApi.deps.json
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.json
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.dev.json
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\TodoApi.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ref\TodoApi.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\TodoApi.pdb
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\ref\TodoApi.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.pdb
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Humanizer.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Web.Cors.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Web.Http.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\System.Web.Http.Cors.dll
+E:\Documentos\code\Visual Studio repos\TodoApi\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\appsettings.json
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.exe
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.deps.json
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.json
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.dev.json
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ref\TodoApi.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.pdb
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Humanizer.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Web.Cors.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Web.Http.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Web.Http.Cors.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.dll
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\ref\TodoApi.dll
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.pdb
+E:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\appsettings.json
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.exe
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.deps.json
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.json
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.dev.json
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ref\TodoApi.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\TodoApi.pdb
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Web.Cors.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Web.Http.Cors.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documentos\code\to-do list\backend\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.dll
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\ref\TodoApi.dll
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.pdb
+D:\Documentos\code\to-do list\backend\TodoApi\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
